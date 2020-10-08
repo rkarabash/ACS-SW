@@ -12,6 +12,6 @@
 ### ----------
 
 ## Отчет
-*Использовал отладчик OllyDbg*
-![GitHub Logo](https://sun9-30.userapi.com/xEH5ALelHoLsXjJCzrqYAAqcNArTzNnuPFFkVg/0eE57e8yi1k.jpg)
+**Использовал отладчик OllyDbg**
+![GitHub Logo](изображение.png)
 
