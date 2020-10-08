@@ -21,6 +21,16 @@
 
 ![Decomposition](decomposition.jpg)
 
+* **Сделал проверку на недопустимые значения размера массива**
+
+![InvalidSize](InvalidSize.jpg)
+
 * **Провел тесты, написанной на FASM, программы**
 
 ![Test1](Test1.jpg)
+
+![Test2](Test2.jpg)
+
+![Test3](Test3.jpg)
+
+![Test4](Test4.jpg)
