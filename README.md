@@ -15,5 +15,12 @@
 ## Отчет
 * **Использовал отладчик OllyDbg**
 
-![GitHub Logo](изображение.png)
+![Debug](debug.jpg)
 
+* **Декомпозировал код на процедуры**
+
+![Decomposition](decomposition.jpg)
+
+* **Провел тесты, написанной на FASM, программы**
+
+![Debug](Test1.jpg)
